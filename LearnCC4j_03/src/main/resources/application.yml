@@ -1,0 +1,48 @@
+# 沙箱目录
+agent:
+  workdir: "F:\\learn_ai\\Accompany\\agent_workspace"
+
+spring:
+  application:
+    name: LearnCC4j_03
+
+  #   ai:
+  #    openai:
+  #      api-key:
+  #      base-url: 
+  #      chat:
+  #        options:
+  #          model:
+  #          stream: false
+  #      
+  #      embedding:
+  #        options:
+  #          model: 
+  #  
+  # 将下面的两行替换成以上的内容
+  profiles:
+    include: qwen
+
+
+# 日志配置      
+logging:
+  level:
+    org.springframework.web.client: DEBUG
+    org.springframework.ai: DEBUG
+  pattern:
+    console: "%clr(%d{yyyy-MM-dd HH:mm:ss}){faint} %clr(%5p) %clr(---){magenta} %clr([%thread]){faint} %clr(%logger{20}){cyan} : %m%n"
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
+    tags-sorter: alpha
+    operations-sorter: alpha
+  api-docs:
+    path: /v3/api-docs
+    enabled: true
+
+knife4j:
+  enable: true
+  setting:
+    language: zh_cn
+

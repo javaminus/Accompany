@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1fbaf0e2-86de-46e7-a3d6-5e48c828979c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/FuckAIGC/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FuckAIGC/src/main/java/com/javaminus/FuckAIGC/FuckAIGCApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FuckAIGC/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnCC4j_01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnCC4j_01/src/main/java/com/example/AgentLoopApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnCC4j_01/src/main/java/com/example/BashToolConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnCC4j_01/src/main/java/com/example/s01_agent_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnCC4j_02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnCC4j_02/src/main/java/com/example/AgentToolsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnCC4j_02/src/main/java/com/example/ToolDispatchApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnCC4j_02/src/main/java/com/example/s02_tool_use.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnCC4j_02/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnCC4j_03/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnCC4j_03/src/main/java/com/example/AgentToolsConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnCC4j_03/src/main/java/com/example/PlanningAgentApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnCC4j_03/src/main/java/com/example/TodoManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnCC4j_03/src/main/java/com/example/s03_todo_write.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearnCC4j_03/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2026-01-22T180647.500.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2026-01-22T181023.500.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2026-01-22T181134.500.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2026-01-22T181406.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ClaudeCode/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ClaudeCode/demo_01/WindowsAgentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ClaudeCode/demo_01/WindowsToolConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ClaudeCode/demo_02/AgentController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ClaudeCode/demo_02/AgentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ClaudeCode/demo_02/AgentToolsConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ClaudeCode/demo_03/TodoAgentService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ClaudeCode/demo_03/TodoManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ClaudeCode/demo_04/AgentServiceI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ClaudeCode/demo_04/WorkspaceTools.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DigitalLifeApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/FuckAIGC/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/FuckAIGC/ai/prompt/system/SystemPrompts.java" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/main/java/com/javaminus/FuckAIGC/ai/prompt/system/SystemPrompts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/FuckAIGC/controller/ChatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/main/java/com/javaminus/FuckAIGC/controller/ChatController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/FuckAIGC/entity/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/main/java/com/javaminus/FuckAIGC/entity/Result.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/FuckAIGC/entity/ReturnCodeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/main/java/com/javaminus/FuckAIGC/entity/ReturnCodeEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/FuckAIGC/entity/TodoItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/main/java/com/javaminus/FuckAIGC/entity/TodoItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/FuckAIGC/service/ChatService.java" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/main/java/com/javaminus/FuckAIGC/service/ChatService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/FuckAIGC/service/impl/ChatServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/main/java/com/javaminus/FuckAIGC/service/impl/ChatServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/config/AiConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/config/GlobalCorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/main/java/com/javaminus/FuckAIGC/config/GlobalCorsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-qwen.yml" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/main/resources/application-qwen.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-secret.yml" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/main/resources/application-secret.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/LearnCC4j_01/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/test/ClaudeCode/demo_01/WindowsAgentTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/test/ClaudeCode/demo_02/AgentIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/test/ClaudeCode/demo_03/AgentIntegrationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/test/ClaudeCode/demo_04/AgentServiceIntegrationTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Maven\repository" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="C:\ProgramData\chocolatey\lib\maven\apache-maven-3.9.14\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="3CKSi9bXAkL8SYurEpRTbwAfz1M" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "F:/learn_ai/Accompany/LearnCC4j_03/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "File.Encoding",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\learn_ai\Accompany\LearnCC4j_03\src\main\resources" />
+      <recent name="F:\learn_ai\Accompany\LearnCC4j_01\src\main" />
+      <recent name="F:\learn_ai\Accompany\resources" />
+      <recent name="F:\learn_ai\Accompany\LearnCC4j_02\src\main\resources" />
+      <recent name="F:\learn_ai\Accompany\LearnCC4j_01\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\learn_ai\Accompany\LearnCC4J\src\main\java\com\example" />
+      <recent name="F:\learn_ai\Accompany\FuckAIGC" />
+      <recent name="F:\learn_ai\Accompany\FuckAIGC\src" />
+      <recent name="F:\learn_ai\Accompany\FuckAIGC\src\main\resources" />
+      <recent name="F:\learn_ai\Accompany\FuckAIGC\src\main\java\com\javaminus" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PlanningAgentApplication">
+    <configuration name="AgentLoopApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.AgentLoopApplication" />
+      <module name="LearnCC4j_01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlanningAgentApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.PlanningAgentApplication" />
+      <module name="LearnCC4j_03" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToolDispatchApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.ToolDispatchApplication" />
+      <module name="LearnCC4j_02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in LearnCC4J" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LearnCC4J" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AgentLoopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="LearnCC4j_01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.AgentLoopApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DigitalLifeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Accompany" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.DigitalLifeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FuckAIGCApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="FuckAIGC" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.javaminus.FuckAIGC.FuckAIGCApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToolDispatchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="LearnCC4j_02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ToolDispatchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PlanningAgentApplication" />
+        <item itemvalue="Application.ToolDispatchApplication" />
+        <item itemvalue="Application.AgentLoopApplication" />
+        <item itemvalue="Spring Boot.AgentLoopApplication" />
+        <item itemvalue="JUnit.All in LearnCC4J" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fbaf0e2-86de-46e7-a3d6-5e48c828979c" name="Changes" comment="" />
+      <created>1776132898139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776132898139</updated>
+      <workItem from="1776132898141" duration="8353000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.py" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
