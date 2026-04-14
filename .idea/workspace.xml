@@ -4,68 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1fbaf0e2-86de-46e7-a3d6-5e48c828979c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/FuckAIGC/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FuckAIGC/src/main/java/com/javaminus/FuckAIGC/FuckAIGCApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FuckAIGC/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_01/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_01/src/main/java/com/example/AgentLoopApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_01/src/main/java/com/example/BashToolConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_01/src/main/java/com/example/s01_agent_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_02/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_02/src/main/java/com/example/AgentToolsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_02/src/main/java/com/example/ToolDispatchApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_02/src/main/java/com/example/s02_tool_use.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_02/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_03/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_03/src/main/java/com/example/AgentToolsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_03/src/main/java/com/example/PlanningAgentApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_03/src/main/java/com/example/TodoManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_03/src/main/java/com/example/s03_todo_write.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_03/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2026-01-22T180647.500.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2026-01-22T181023.500.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2026-01-22T181134.500.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2026-01-22T181406.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-client.cookies" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ClaudeCode/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ClaudeCode/demo_01/WindowsAgentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ClaudeCode/demo_01/WindowsToolConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ClaudeCode/demo_02/AgentController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ClaudeCode/demo_02/AgentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ClaudeCode/demo_02/AgentToolsConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ClaudeCode/demo_03/TodoAgentService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ClaudeCode/demo_03/TodoManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ClaudeCode/demo_04/AgentServiceI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/ClaudeCode/demo_04/WorkspaceTools.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/DigitalLifeApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/FuckAIGC/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/FuckAIGC/ai/prompt/system/SystemPrompts.java" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/main/java/com/javaminus/FuckAIGC/ai/prompt/system/SystemPrompts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/FuckAIGC/controller/ChatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/main/java/com/javaminus/FuckAIGC/controller/ChatController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/FuckAIGC/entity/Result.java" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/main/java/com/javaminus/FuckAIGC/entity/Result.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/FuckAIGC/entity/ReturnCodeEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/main/java/com/javaminus/FuckAIGC/entity/ReturnCodeEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/FuckAIGC/entity/TodoItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/main/java/com/javaminus/FuckAIGC/entity/TodoItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/FuckAIGC/service/ChatService.java" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/main/java/com/javaminus/FuckAIGC/service/ChatService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/FuckAIGC/service/impl/ChatServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/main/java/com/javaminus/FuckAIGC/service/impl/ChatServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/config/AiConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/config/GlobalCorsConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/main/java/com/javaminus/FuckAIGC/config/GlobalCorsConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-qwen.yml" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/main/resources/application-qwen.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-secret.yml" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/src/main/resources/application-secret.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/LearnCC4j_01/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/test/ClaudeCode/demo_01/WindowsAgentTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/test/ClaudeCode/demo_02/AgentIntegrationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/test/ClaudeCode/demo_03/AgentIntegrationTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/test/ClaudeCode/demo_04/AgentServiceIntegrationTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="1fbaf0e2-86de-46e7-a3d6-5e48c828979c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -241,7 +180,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1776132898139</updated>
-      <workItem from="1776132898141" duration="8353000" />
+      <workItem from="1776132898141" duration="8957000" />
     </task>
     <servers />
   </component>
