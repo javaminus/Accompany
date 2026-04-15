@@ -23,6 +23,15 @@
         <module>LearnCC4j_01</module>
         <module>LearnCC4j_02</module>
         <module>LearnCC4j_03</module>
+        <module>LearnCC4j_04</module>
+        <module>LearnCC4j_05</module>
+        <module>LearnCC4j_06</module>
+        <module>LearnCC4j_07</module>
+        <module>LearnCC4j_08</module>
+        <module>LearnCC4j_09</module>
+        <module>LearnCC4j_11</module>
+        <module>LearnCC4j_12</module>
+        <module>LearnCC4j_10</module>
     </modules>
 
     <properties>

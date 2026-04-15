@@ -1,0 +1,8 @@
+{
+  "id" : 6,
+  "subject" : "Emit output",
+  "description" : "Generate final output (e.g., code, bytecode, or documentation) from the transformed AST",
+  "status" : "pending",
+  "blockedBy" : [ 4 ],
+  "owner" : ""
+}
