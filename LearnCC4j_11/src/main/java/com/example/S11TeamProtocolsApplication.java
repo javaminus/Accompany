@@ -1,7 +1,8 @@
 package com.example;
 
-import com.example.s10.core.MessageBus;
-import com.example.s10.core.TeammateManager;
+
+import com.example.core.MessageBus;
+import com.example.core.TeammateManager;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.client.advisor.MessageChatMemoryAdvisor;
 import org.springframework.ai.chat.memory.InMemoryChatMemory;
