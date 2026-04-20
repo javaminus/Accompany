@@ -1,6 +1,6 @@
 package com.example.tools;
 
-import com.example.s12.core.TaskManager;
+import com.example.core.TaskManager;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Description;

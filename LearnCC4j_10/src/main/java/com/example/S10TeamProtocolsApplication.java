@@ -11,13 +11,13 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import java.util.Scanner;
 
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class})
-public class S10TeamProtocolsApplication implements CommandLineRunner {
+public class S11TeamProtocolsApplication implements CommandLineRunner {
 
     private final ChatClient chatClient;
     private final MessageBus bus;
     private final TeammateManager teamManager;
 
-    public S10TeamProtocolsApplication(ChatClient.Builder builder, MessageBus bus, TeammateManager teamManager) {
+    public S11TeamProtocolsApplication(ChatClient.Builder builder, MessageBus bus, TeammateManager teamManager) {
         this.bus = bus;
         this.teamManager = teamManager;
         String workDir = System.getProperty("user.dir");
@@ -41,7 +41,7 @@ public class S10TeamProtocolsApplication implements CommandLineRunner {
     }
 
     public static void main(String[] args) {
-        SpringApplication app = new SpringApplication(S10TeamProtocolsApplication.class);
+        SpringApplication app = new SpringApplication(S11TeamProtocolsApplication.class);
         app.setLogStartupInfo(false);
         app.run(args);
     }

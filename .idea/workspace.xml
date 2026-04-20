@@ -5,85 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1fbaf0e2-86de-46e7-a3d6-5e48c828979c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_04/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_04/src/main/java/com/example/AgentTemplate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_04/src/main/java/com/example/AgentToolsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_04/src/main/java/com/example/SubagentApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_04/src/main/java/com/example/s04_subagent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_04/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_05/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_05/src/main/java/com/example/AgentTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_05/src/main/java/com/example/ChatClientConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_05/src/main/java/com/example/SkillAgentApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_05/src/main/java/com/example/SkillDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_05/src/main/java/com/example/SkillManifest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_05/src/main/java/com/example/SkillRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_05/src/main/java/com/example/WorkspaceContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_05/src/main/java/com/example/s05_skill_loading.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_05/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_06/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_06/src/main/java/com/example/AgentToolsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_06/src/main/java/com/example/ContextCompactApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_06/src/main/java/com/example/MemoryCompactService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_06/src/main/java/com/example/s06_context_compact.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_06/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_07/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_07/src/main/java/com/example/AgentToolsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_07/src/main/java/com/example/PersistentTaskApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_07/src/main/java/com/example/TaskManagerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_07/src/main/java/com/example/s07_task_system.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_07/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_08/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_08/src/main/java/com/example/AgentToolsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_08/src/main/java/com/example/BackgroundManagerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_08/src/main/java/com/example/BackgroundTasksApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_08/src/main/java/com/example/NotificationAwareChatMemory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_08/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_09/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_09/src/main/java/com/example/S09AgentTeamsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_09/src/main/java/com/example/core/MessageBus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_09/src/main/java/com/example/core/TeammateManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_09/src/main/java/com/example/s09_agent_teams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_09/src/main/java/com/example/tools/FileSystemTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_09/src/main/java/com/example/tools/TeamCommunicationTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_09/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_10/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_10/src/main/java/com/example/MessageBus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_10/src/main/java/com/example/ProtocolTracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_10/src/main/java/com/example/S10TeamProtocolsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_10/src/main/java/com/example/TeammateManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_10/src/main/java/com/example/ToolsConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_10/src/main/java/com/example/s10_team_protocols.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_10/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_11/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_11/src/main/java/com/example/S10TeamProtocolsApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_11/src/main/java/com/example/core/MessageBus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_11/src/main/java/com/example/core/ProtocolTracker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_11/src/main/java/com/example/core/TeammateManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_11/src/main/java/com/example/s11_autonomous_agents.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_11/src/main/java/com/example/tools/FileSystemTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_11/src/main/java/com/example/tools/ProtocolTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_11/src/main/java/com/example/tools/TeamCommunicationTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_11/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_12/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_12/src/main/java/com/example/S12WorktreeTaskIsolationApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_12/src/main/java/com/example/core/EventBus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_12/src/main/java/com/example/core/ProjectEnv.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_12/src/main/java/com/example/core/TaskManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_12/src/main/java/com/example/core/WorktreeManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_12/src/main/java/com/example/s12_worktree_task_isolation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_12/src/main/java/com/example/tools/FileSystemTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_12/src/main/java/com/example/tools/TaskTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_12/src/main/java/com/example/tools/WorktreeTools.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LearnCC4j_12/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skills/agent-builder/SKILL.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skills/code-review/SKILL.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skills/mcp-builder/SKILL.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/skills/pdf/SKILL.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClaudeCode/src/main/java/com/example/AgentApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClaudeCode/src/main/java/com/example/agent/LeadAgent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClaudeCode/src/main/java/com/example/agent/SubAgentHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClaudeCode/src/main/java/com/example/agent/TeammateWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClaudeCode/src/main/java/com/example/config/AppConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClaudeCode/src/main/java/com/example/models/Models.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClaudeCode/src/main/java/com/example/s_full.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClaudeCode/src/main/java/com/example/services/BackgroundService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClaudeCode/src/main/java/com/example/services/FileOpsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClaudeCode/src/main/java/com/example/services/MessageBusService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClaudeCode/src/main/java/com/example/services/SkillLoaderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClaudeCode/src/main/java/com/example/services/TaskManagerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClaudeCode/src/main/java/com/example/services/TeamManagerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClaudeCode/src/main/java/com/example/services/TodoManagerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ClaudeCode/src/main/java/com/example/tools/ToolsConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LearnCC4j_01/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LearnCC4j_01/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tasks/task_1.json" beforeDir="false" afterPath="$PROJECT_DIR$/.tasks/task_1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.tasks/task_2.json" beforeDir="false" afterPath="$PROJECT_DIR$/.tasks/task_2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CluadeCode/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ClaudeCode/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CluadeCode/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/ClaudeCode/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FuckAIGC/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/FuckAIGC/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnCC4j_10/src/main/java/com/example/S10TeamProtocolsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/LearnCC4j_10/src/main/java/com/example/S10TeamProtocolsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnCC4j_11/src/main/java/com/example/S11TeamProtocolsApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/LearnCC4j_11/src/main/java/com/example/S11TeamProtocolsApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnCC4j_12/src/main/java/com/example/S12WorktreeTaskIsolationApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/LearnCC4j_12/src/main/java/com/example/S12WorktreeTaskIsolationApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnCC4j_12/src/main/java/com/example/core/WorktreeManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/LearnCC4j_12/src/main/java/com/example/core/WorktreeManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnCC4j_12/src/main/java/com/example/tools/TaskTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/LearnCC4j_12/src/main/java/com/example/tools/TaskTools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnCC4j_12/src/main/java/com/example/tools/WorktreeTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/LearnCC4j_12/src/main/java/com/example/tools/WorktreeTools.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,17 +86,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "17",
-    "last_opened_file_path": "F:/learn_ai/Accompany/LearnCC4j_11/src/main/java/com/example/tools",
+    "last_opened_file_path": "F:/learn_ai/Accompany/CluadeCode/src/main/java/com/example",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "MavenSettings",
-    "spring.configuration.checksum": "11fc9d89cbbcd1c4e04917a1edcb5bc4",
+    "spring.configuration.checksum": "4371bf8b01630bc75fe84d897e559c09",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -155,11 +105,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\learn_ai\Accompany\CluadeCode\src\main\java\com\example" />
+      <recent name="F:\learn_ai\Accompany\CluadeCode\src\main\resources" />
       <recent name="F:\learn_ai\Accompany\LearnCC4j_11\src\main\java\com\example\tools" />
       <recent name="F:\learn_ai\Accompany\LearnCC4j_12\src\main\resources" />
       <recent name="F:\learn_ai\Accompany\LearnCC4j_11\src\main\resources" />
-      <recent name="F:\learn_ai\Accompany\LearnCC4j_10\src\main\resources" />
-      <recent name="F:\learn_ai\Accompany\LearnCC4j_09\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\learn_ai\Accompany" />
@@ -172,23 +122,10 @@
       <recent name="com.example.tools" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BackgroundTasksApplication">
+  <component name="RunManager" selected="Spring Boot.AgentApplication">
     <configuration name="BackgroundTasksApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.BackgroundTasksApplication" />
       <module name="LearnCC4j_08" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.tools.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContextCompactApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.example.ContextCompactApplication" />
-      <module name="LearnCC4j_06" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.example.tools.*" />
@@ -212,6 +149,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="S11TeamProtocolsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.S11TeamProtocolsApplication" />
+      <module name="LearnCC4j_11" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S12WorktreeTaskIsolationApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.S12WorktreeTaskIsolationApplication" />
+      <module name="LearnCC4j_12" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AgentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ClaudeCode" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.AgentApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AgentLoopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="LearnCC4j_01" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.AgentLoopApplication" />
@@ -222,19 +198,6 @@
     <configuration name="BackgroundTasksApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="LearnCC4j_08" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.BackgroundTasksApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ContextCompactApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="LearnCC4j_06" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.ContextCompactApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -267,15 +230,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SkillAgentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="S09AgentTeamsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="LearnCC4j_09" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.S09AgentTeamsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S11TeamProtocolsApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="LearnCC4j_11" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.S11TeamProtocolsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S11TeamProtocolsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="LearnCC4j_10" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.S11TeamProtocolsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S12WorktreeTaskIsolationApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="LearnCC4j_12" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.S12WorktreeTaskIsolationApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkillAgentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="LearnCC4j_05" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.SkillAgentApplication" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -296,11 +281,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.AgentApplication" />
+        <item itemvalue="Application.S11TeamProtocolsApplication" />
+        <item itemvalue="Application.S12WorktreeTaskIsolationApplication" />
         <item itemvalue="Application.BackgroundTasksApplication" />
         <item itemvalue="Application.PersistentTaskApplication" />
-        <item itemvalue="Spring Boot.ContextCompactApplication" />
-        <item itemvalue="Application.ContextCompactApplication" />
-        <item itemvalue="Spring Boot.SkillAgentApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -314,6 +299,9 @@
       <updated>1776132898139</updated>
       <workItem from="1776132898141" duration="16982000" />
       <workItem from="1776218110332" duration="12373000" />
+      <workItem from="1776302342568" duration="3650000" />
+      <workItem from="1776307152287" duration="5344000" />
+      <workItem from="1776651062914" duration="2968000" />
     </task>
     <servers />
   </component>

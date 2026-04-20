@@ -14,13 +14,13 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 import java.util.Scanner;
 
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class})
-public class S10TeamProtocolsApplication implements CommandLineRunner {
+public class S11TeamProtocolsApplication implements CommandLineRunner {
 
     private final ChatClient chatClient;
     private final MessageBus bus;
     private final TeammateManager teamManager;
 
-    public S10TeamProtocolsApplication(ChatClient.Builder builder, MessageBus bus, TeammateManager teamManager) {
+    public S11TeamProtocolsApplication(ChatClient.Builder builder, MessageBus bus, TeammateManager teamManager) {
         this.bus = bus;
         this.teamManager = teamManager;
         String workDir = System.getProperty("user.dir");
@@ -44,7 +44,7 @@ public class S10TeamProtocolsApplication implements CommandLineRunner {
     }
 
     public static void main(String[] args) {
-        SpringApplication app = new SpringApplication(S10TeamProtocolsApplication.class);
+        SpringApplication app = new SpringApplication(S11TeamProtocolsApplication.class);
         app.setLogStartupInfo(false);
         app.run(args);
     }
@@ -53,7 +53,7 @@ public class S10TeamProtocolsApplication implements CommandLineRunner {
     public void run(String... args) {
         Scanner scanner = new Scanner(System.in);
         while (true) {
-            System.out.print("\033[36ms10 >> \033[0m");
+            System.out.print("\033[36ms11 >> \033[0m");
             if (!scanner.hasNextLine()) break;
             String query = scanner.nextLine().trim();
 

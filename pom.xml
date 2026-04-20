@@ -32,6 +32,7 @@
         <module>LearnCC4j_11</module>
         <module>LearnCC4j_12</module>
         <module>LearnCC4j_10</module>
+        <module>ClaudeCode</module>
     </modules>
 
     <properties>

@@ -1,7 +1,7 @@
 package com.example.tools;
 
-import com.example.s12.core.EventBus;
-import com.example.s12.core.WorktreeManager;
+import com.example.core.EventBus;
+import com.example.core.WorktreeManager;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Description;

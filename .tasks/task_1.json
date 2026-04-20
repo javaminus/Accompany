@@ -4,5 +4,7 @@
   "description" : "Initialize the project structure and configuration",
   "status" : "completed",
   "blockedBy" : [ ],
-  "owner" : ""
+  "owner" : "",
+  "worktree" : "",
+  "updated_at" : 1.776309421719E9
 }

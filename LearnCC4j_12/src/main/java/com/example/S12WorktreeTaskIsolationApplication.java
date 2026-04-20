@@ -1,7 +1,8 @@
 package com.example;
 
-import com.example.s12.core.ProjectEnv;
-import com.example.s12.core.WorktreeManager;
+
+import com.example.core.ProjectEnv;
+import com.example.core.WorktreeManager;
 import org.springframework.ai.chat.client.ChatClient;
 import org.springframework.ai.chat.client.advisor.MessageChatMemoryAdvisor;
 import org.springframework.ai.chat.memory.InMemoryChatMemory;

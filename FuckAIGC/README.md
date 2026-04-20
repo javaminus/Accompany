@@ -1,1 +1,2 @@
+- 论文降AIGC助手
 - 真看不惯查AIGC这些网站，两头吃，SystemPrompts文件里面有本人亲测好用的降AIGC率的提示词。

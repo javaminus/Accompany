@@ -1,5 +1,6 @@
 package com.example.core;
 
+import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.stereotype.Component;
 
@@ -70,7 +71,7 @@ public class WorktreeManager {
         return wts.stream().filter(w -> name.equals(w.get("name"))).findFirst().orElse(null);
     }
 
-    public synchronized String create(String name, Integer taskId, String baseRef) {
+    public synchronized String create(String name, Integer taskId, String baseRef) throws JsonProcessingException {
         if (!name.matches("[A-Za-z0-9._-]{1,40}")) throw new IllegalArgumentException("Invalid worktree name.");
         if (find(name) != null) throw new IllegalArgumentException("Worktree '" + name + "' already exists");
         if (taskId != null && !tasks.exists(taskId)) throw new IllegalArgumentException("Task " + taskId + " not found");
