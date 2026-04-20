@@ -1,7 +1,6 @@
 target/
 application-secret.yml
 application-qwen.yml
-.idea/
 .gitignore
 agent_workspace/
 !.mvn/wrapper/maven-wrapper.jar
@@ -44,3 +43,7 @@ build/
 ### Mac OS ###
 .DS_Store
 
+/.idea/
+/.tasks/
+/.worktrees/
+/.team/

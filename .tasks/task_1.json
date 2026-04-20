@@ -1,0 +1,10 @@
+{
+  "id" : 1,
+  "subject" : "Setup project",
+  "description" : "Initialize the project structure and configuration",
+  "status" : "completed",
+  "blockedBy" : [ ],
+  "owner" : "",
+  "worktree" : "",
+  "updated_at" : 1.776309421719E9
+}

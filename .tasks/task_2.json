@@ -1,0 +1,10 @@
+{
+  "id" : 2,
+  "subject" : "Write code",
+  "description" : "Implement the main functionality",
+  "status" : "in_progress",
+  "blockedBy" : [ ],
+  "owner" : "",
+  "worktree" : "ui-login",
+  "updated_at" : 1.776309372156E9
+}
